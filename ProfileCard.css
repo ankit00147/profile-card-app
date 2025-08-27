@@ -1,0 +1,22 @@
+/* src/components/ProfileCard.css */
+
+.profile-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  width: 250px;
+  padding: 20px;
+  text-align: center;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  color: rgb(59, 57, 57);
+}
+
+.avatar {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-color: rgb(149, 147, 147);
+}
